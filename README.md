@@ -7,7 +7,7 @@
 <!-- ============================ BANNER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Hi%2C%20I'm%20Datta%20L&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20RAG%20%26%20LLMs&amp;descSize=18&amp;descAlignY=60" alt="Banner" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F2027&amp;height=200&amp;section=header&amp;text=Hi%2C%20I%27m%20Datta%20L&amp;fontSize=50&amp;fontColor=ffffff" alt="Datta L" width="100%">
 
 <a href="https://git.io/typing-svg">
