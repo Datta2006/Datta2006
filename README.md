@@ -41,7 +41,6 @@ const datta = {
 
 - 🔭 Building **distributed, fault-tolerant systems** and **AI-powered apps**
 - 🛒 Recently interned at **Flipkart**, where I built an ETL platform and a RAG-based QA system
-- 🏆 **1st Place** at **Flipkart Seller Hack Day** with *Setu Live*, an agentic AI assistant for seller onboarding
 - 🤝 Mentor, volunteer, and startup enthusiast: I love helping people grow
 
 <br/>
@@ -82,41 +81,8 @@ const datta = {
 
 <br/>
 
-<!-- ============================ EXPERIENCE ============================ -->
-## 💼 Experience
 
-<table>
-<tr>
-<td width="110" align="center">
-  <img src="https://img.shields.io/badge/Flipkart-2874F0?style=for-the-badge&logo=flipkart&logoColor=white" alt="Flipkart"/>
-</td>
-<td>
 
-### Software Development Engineer Intern · Flipkart
-📅 *May 2026 – July 2026* · 📍 *Bengaluru, India*
-
-- 🕸️ Built a **configurable ETL platform** to scrape and unify structured and unstructured data from multiple e-commerce and social media platforms into a centralized knowledge base
-- ⚡ Designed a **multithreaded scraping framework** with parallel execution across domains, modular scraper registration, and pluggable pipeline orchestration, so new sources can be added without core changes
-- 🧵 Implemented a **MySQL-backed distributed task queue** enabling fault-tolerant batch transformation and aggregation across multiple worker servers
-- 🤖 Built a **RAG-based QA system** combining vector search and LLMs to generate grounded seller insights from aggregated trend data
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-8E44AD?style=flat-square"/> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Multithreading-E67E22?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============================ ACHIEVEMENTS ============================ -->
-## 🏆 Achievements
-
-| | Achievement |
-|---|---|
-| 🥇 | **1st Place, Flipkart Seller Hack Day**: built *Setu Live*, an agentic AI assistant that automates seller onboarding via browser automation and intelligent form filling |
-| 🎯 | **Tapas Program (2022)**: selected as one of the **top 40 students out of 5,000+ applicants** across Karnataka by Rashtrotthana Parishath |
-
-<br/>
 
 <!-- ============================ EDUCATION ============================ -->
 ## 🎓 Education
@@ -124,13 +90,6 @@ const datta = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/NITK%20Surathkal-B.Tech%20CSE-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NITK"/>
-<img src="https://img.shields.io/badge/CGPA-7.7%20%2F%2010-2ECC71?style=for-the-badge" alt="CGPA"/>
-<img src="https://img.shields.io/badge/2023%20--%20Present-3498DB?style=for-the-badge" alt="Duration"/>
-
-<img src="https://img.shields.io/badge/Rashtrotthana%20Vidya%20Kendra%20(TAPAS)-Higher%20Secondary-E67E22?style=for-the-badge" alt="RVK"/>
-<img src="https://img.shields.io/badge/Percentage-90%25-2ECC71?style=for-the-badge" alt="90%"/>
-
-**📚 Relevant Coursework:** Data Structures & Algorithms · Operating Systems · Database Systems
 
 </div>
 
@@ -162,15 +121,7 @@ const datta = {
 
 <br/>
 
-<!-- ============================ COMMUNITY ============================ -->
-## 🌱 Beyond Code
 
-- 📚 **Avanti Fellows**: mentored Class 11–12 students preparing for JEE
-- 🏖️ **Beach School Program**: volunteered to teach primary and higher primary students
-- 🚀 **Entrepreneurship Bootcamps**: organised **two bootcamps**, guiding **80+ participants**
-- 🤝 **Bluetick Startup**: volunteered to guide a team of interns and keep project work on track
-
-<br/>
 
 <!-- ============================ CONNECT ============================ -->
 ## 📫 Let's Connect
