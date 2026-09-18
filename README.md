@@ -90,13 +90,21 @@ const datta = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Datta2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Datta2006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Datta2006&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Datta2006&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta2006&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages"/>
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Datta2006&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Datta2006&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Activity Graph" width="100%"/>
+
+</div>
 </div>
 
 <!-- ============================ OPTIONAL: CONTRIBUTION SNAKE ============================
