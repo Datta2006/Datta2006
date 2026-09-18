@@ -1,3 +1,10 @@
+<!-- ============================================================
+  GitHub Profile README for Datta L (Datta2006)
+  Put this file in a PUBLIC repo named exactly: Datta2006
+  (repo name must match your username) and it shows on your profile.
+============================================================ -->
+
+<!-- ============================ BANNER ============================ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%2C%20I'm%20Datta%20L&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20RAG%20%26%20LLMs&descSize=18&descAlignY=60" alt="Banner" width="100%"/>
@@ -19,8 +26,6 @@
 
 <!-- ============================ ABOUT ============================ -->
 ## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="" style="display:none"/>
 
 ```js
 const datta = {
@@ -96,78 +101,6 @@ const datta = {
 - 🤖 Built a **RAG-based QA system** combining vector search and LLMs to generate grounded seller insights from aggregated trend data
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-8E44AD?style=flat-square"/> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/> <img src="https://img.shields.io/badge/Multithreading-E67E22?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============================ PROJECTS ============================ -->
-## 🚀 Featured Projects
-
-<!-- TODO: replace each "Code" / "Demo" link below with your actual repo / live-demo URLs -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 Distributed URL Shortener
-Scalable URL shortener built for high throughput.
-
-- 🧱 **Block-based ID allocation** to minimise database round-trips
-- ⚡ **Redis Cache-Aside** caching, **SHA-256** URL deduplication, and Redis-based **rate limiting**
-- 📊 Asynchronous **analytics pipeline** with Redis queues, Python workers, and Docker Compose
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-<a href="https://github.com/Datta2006?tab=repositories"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚇 Metro Ticket Booking System
-Full-stack metro ticketing platform with Web3 payments.
-
-- 🔐 Secure **JWT authentication** with **bcrypt** password encryption
-- 🔍 Real-time train search, **PDF ticket generation** (jsPDF), and **blockchain payments via MetaMask**
-- 🛠️ **Admin dashboard** to manage users, bookings, trains, stations, and cancellations
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-
-<a href="https://github.com/Datta2006?tab=repositories"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-<a href="https://github.com/Datta2006?tab=repositories"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Collaborative Document Editor
-Google-Docs-style real-time editing for multiple users.
-
-- 🔄 Real-time multi-user sync using **Node.js, Express, and Socket.IO**
-- 🗂️ **RESTful API** + MySQL for documents, user permissions, and **version history**
-- 🔐 Secure access control with **JWT** authentication
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-<a href="https://github.com/Datta2006?tab=repositories"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-<a href="https://github.com/Datta2006?tab=repositories"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Setu Live · *Hackathon Winner* 🏆
-Agentic AI assistant that automates seller onboarding.
-
-- 🥇 **1st Place** at **Flipkart Seller Hack Day**
-- 🌐 Automates onboarding through **browser automation** and **intelligent form filling**
-- 🧠 Agentic AI workflow built to cut seller onboarding friction
-
-<img src="https://img.shields.io/badge/Agentic%20AI-8E44AD?style=flat-square"/> <img src="https://img.shields.io/badge/Browser%20Automation-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Flipkart%20Seller%20Hack%20Day-1st%20Place-FFD700?style=for-the-badge&logo=flipkart&logoColor=black" alt="Winner"/>
 
 </td>
 </tr>
@@ -255,17 +188,3 @@ Agentic AI assistant that automates seller onboarding.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer" width="100%"/>
 
 </div>
-<!--
-**Datta2006/Datta2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
