@@ -8,7 +8,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Hi%2C%20I'm%20Datta%20L&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20RAG%20%26%20LLMs&amp;descSize=18&amp;descAlignY=60" alt="Banner" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0F2027&amp;height=200&amp;section=header&amp;text=Hi%2C%20I%27m%20Datta%20L&amp;fontSize=50&amp;fontColor=ffffff" alt="Datta L" width="100%">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=CSE+Undergrad+%40+NITK+Surathkal+%F0%9F%8E%93;Former+SDE+Intern+%40+Flipkart+%F0%9F%9B%92;Building+Distributed+Systems+%E2%9A%99%EF%B8%8F;ETL+Pipelines+%2B+RAG+%2B+LLMs+%F0%9F%A4%96;1st+Place+%E2%80%94+Flipkart+Seller+Hack+Day+%F0%9F%8F%86" alt="Typing SVG" />
