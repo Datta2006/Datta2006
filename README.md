@@ -31,18 +31,14 @@
 ```js
 const datta = {
   name: "Datta L",
-  role: "Software Engineer (in the making) 🚀",
+  role: "Software Engineer (in the making) ",
   education: "B.Tech CSE @ NIT Karnataka, Surathkal (2023 – Present)",
   experience: "SDE Intern @ Flipkart (May – Jul 2026)",
   currentlyExploring: ["Distributed Systems", "RAG & LLM Apps", "Agentic AI"],
   loves: ["Building scalable backends", "Clean system design", "Hackathons"],
-  funFact: "Selected as 1 of top 40 from 5,000+ applicants in the Tapas Program 🎯",
+  funFact: "Selected as 1 of top 40 from 5,000+ applicants in the Tapas Program ",
 };
 ```
-
-- 🔭 Building **distributed, fault-tolerant systems** and **AI-powered apps**
-- 🛒 Recently interned at **Flipkart**, where I built an ETL platform and a RAG-based QA system
-- 🤝 Mentor, volunteer, and startup enthusiast: I love helping people grow
 
 <br/>
 
