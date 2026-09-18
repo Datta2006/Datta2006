@@ -85,18 +85,7 @@ const datta = {
 
 
 
-<!-- ============================ EDUCATION ============================ -->
-## 🎓 Education
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/NITK%20Surathkal-B.Tech%20CSE-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="NITK"/>
-
-</div>
-
-<br/>
-
-<!-- ============================ GITHUB STATS ============================ -->
 ## 📊 GitHub Stats
 
 <div align="center">
