@@ -90,29 +90,23 @@ const datta = {
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Datta2006&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats">
 
-<!-- Top Languages -->
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta2006&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages">
 
 <br><br>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=Datta2006&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak">
+<img height="180" src="https://streak-stats.demolab.com?user=Datta2006&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak">
 
 <br><br>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Datta2006&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Activity Graph" width="100%">
 
 <br><br>
 
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Datta2006&amp;label=Profile%20Views&amp;color=38BDF8&amp;style=for-the-badge" alt="Profile Views">
 
 </div>
-
 <!-- ============================ OPTIONAL: CONTRIBUTION SNAKE ============================
   Want the animated snake eating your contribution graph? Set up the
   Platane/snk GitHub Action in this repo (it generates dist/github-contribution-grid-snake.svg
